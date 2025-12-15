@@ -42,3 +42,8 @@ CREATED → PAID → SHIPPED → DELIVERED
 ## 📌 API Endpoints
 
 ### Create Order
+### Get Orders
+### Get Order by ID
+### Update Order Status
+### Delete order by ID
+
